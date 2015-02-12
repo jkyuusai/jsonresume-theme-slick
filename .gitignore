@@ -1,2 +1,5 @@
 resume.json
 npm-debug.log
+/.project
+*.sublime-project
+*.sublime-workspace
